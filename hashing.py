@@ -9,6 +9,4 @@ if hashed_entered_password.hexdigest() == stored_password.hexdigest():
     print("Logged in")
 else:
     print("Wrong password")
-    
-print(hashed_entered_password.hexdigest())
-print(stored_password.hexdigest())
+
