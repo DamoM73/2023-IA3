@@ -7,8 +7,9 @@ The new Road to Recovery patient data application datastore library must include
   - [x] Get passwords
 - [x] Add clinicians (limited to administrator)
 - [x] Add patients
-- [ ] View clinicians’ statistics
-- [ ] Enter appointments assessments
+- [x] View patients assessments
+- [x] View clinicians’ statistics
+- [x] Enter appointment's data
 - [x] View patient assessments
 - [ ] Enter patient exercise regime
-- [ ] View patient exercise regime
+- [x] View patient exercise regime
